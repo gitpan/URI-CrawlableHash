@@ -25,5 +25,5 @@ requires:
   URI: 0
 resources:
   license: http://dev.perl.org/licenses/
-  repository: git://github.com/mala/AnyEvent-Curl.git
-version: 0.01
+  repository: git://github.com/mala/p5-URI-CrawlableHash.git
+version: 0.02
